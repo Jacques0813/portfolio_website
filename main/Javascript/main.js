@@ -28,8 +28,8 @@ for (var i = 0; i < elements.length; i++) {
 }
 
 // function to autoplay the videos
-var bg_video = document.getElementById('main_video');
-bg_video.play();
+// var bg_video = document.getElementById('main_video');
+// bg_video.play();
 
 
 function checkOpacityAndPlay() {
